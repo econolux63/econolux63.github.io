@@ -1,0 +1,14 @@
+sts_bs("jwscroller2dbd",[20080623,"images/sothink/about-us/","","blank.gif",1,1,1,5,"597px","left",10,3,586,383,1,450,0,1,396,2000,3,24,1,"progid:DXImageTransform.Microsoft.Wipe(GradientSize=1.0,wipeStyle=1,motion=forward,enabled=0,Duration=0.50)",5,60],["none",3,"#000000","transparent","","no-repeat"]);
+sts_pag(["transparent","7pt Verdana,Arial","#fa8518","none","transparent","7pt Verdana,Arial","#fa8518","none","#339999","7pt Verdana,Arial","#FFFFFF","none","#339999","7pt Verdana,Arial","#FFFFFF","none"]);
+sts_sca(["right","middle","right","middle"],["arrow02_ud.gif","arrow02_uv.gif","arrowu_gray.gif",20,26,"arrow02_wd.gif","arrow02_wv.gif","arrowd_gray.gif",20,26]);
+sts_sbd([1],["groove",2,"#009900",4,"border02_tl[1].gif","border02_tr[1].gif","border02_br[1].gif","border02_bl[1].gif","transparent","border02_t[1].gif","repeat","transparent","border02_r[1].gif","repeat","transparent","border02_b[1].gif","repeat","transparent","border02_l[1].gif","repeat"]);
+sts_ai("i0",[0,"Item 1","","_self","picture_06.jpg",586,383,"center"],["transparent","9pt Verdana,Arial","#FFFFFF","none","9pt Verdana,Arial","#FFFFFF","none"]);
+sts_ai("i1",[,"Item 2",,,"picture_01.jpg"],[],"i0","i0");
+sts_ai("i2",[,"Item 3",,,"picture_02.jpg"],[],"i0","i0");
+sts_ai("i3",[,"Item 4",,,"picture_03.jpg"],[],"i0","i0");
+sts_ai("i4",[,"Item 5",,,"picture_04.jpg"],[],"i0","i0");
+sts_ai("i5",[,"Item 6",,,"picture_05.jpg"],[],"i0","i0");
+sts_ai("i6",[,"Item 7",,,"pictures9.jpg"],[],"i0","i0");
+sts_ai("i7",[,"Item 8",,,"pictures7.jpg"],[],"i0","i0");
+sts_ai("i8",[,"Item 9",,,"pictures8.jpg"],[],"i0","i0");
+sts_es();

@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fottermysite a{
+font-family:Arial, Helvetica, sans-serif;
+color:#999999;
+display:block;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+
+}
+.fottermysite a:hover{
+color:#eae5d2;
+}
+.header{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#000000;
+}
+.txt{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+}
+.learn-more a{
+font-family:Arial, Helvetica, sans-serif;
+color:#393939;
+font-size:11px;
+font-weight:bold;
+}
+.learn-more a:hover{
+color:#d44b03;
+}
+.link a{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+text-decoration:underline;
+}
+.link a:hover{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#d44b03;
+}
+.products{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+text-decoration:underline;
+}
+/*   SCROLLING       */
+
+div.scroll
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:700px;
+overflow:none;
+overflow-x:scroll;
+}
+
+div.scroll2
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:670px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll3
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll4
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll5
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll6
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll7
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll8
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll9
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+div.scroll10
+{
+background:url(../images/present-projects/bg-content-txt_05.html);
+background-attachment:fixed;
+width:100%;
+height:650px;
+overflow:none;
+overflow-x:scroll;
+}
+/*  END SCROLLING   */
+
+/*  CONTACT US   */
+.contact-b{
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+font-size:12px;
+color:#4c4c4c;
+}
+.main-header{
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+font-size:16px;
+}
+
+
+
+/*  END CONTACT US   */
+
+/* testimonials  */
+.testimonials-name{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px; font-weight:bold;
+color:#e16002;
+}
+.testimonials-address{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px; font-weight:bold;
+color:#717171;
+}
+.testimonials-bold{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px; font-weight:bold;
+color:#6c4c2f;
+}
+/*  END testimonials   */
